@@ -1,0 +1,34 @@
+{
+  "name": "namastey-react",
+  "version": "1.0.0",
+  "description": "this is react tutorial by sanjay",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kernal22/React-Tutorial.git"
+  },
+  "keywords": [
+    "react",
+    "react",
+    "dom"
+  ],
+  "author": "sanjay kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kernal22/React-Tutorial/issues"
+  },
+  "homepage": "https://github.com/kernal22/React-Tutorial#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
+}
